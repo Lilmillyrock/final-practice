@@ -1,0 +1,11 @@
+services:
+  analysis-env:
+    image: practice_img:latest
+    command: ["/bin/bash"]
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/jovyan
+    platform: linux/arm64
+      
+        
