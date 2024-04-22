@@ -3,4 +3,9 @@
 
 # Jupyter Notebook
 **.ipynb_checkpoints
-**.virtual_documents/
+**.virtual_documents
+
+*.bash_history
+**.local
+**.npm
+**.python_history
