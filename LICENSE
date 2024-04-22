@@ -1,4 +1,6 @@
-The following License pertains to the content of the file `.github/workflows/docker-publish.yml`, the source code for which was obtained from [`ttimbers`](https://github.com/ttimbers/dsci310-dockerfile-practice)
+The following License pertains to the content of the file 
+.github/workflows/docker-publish.yml, the source code for which was obtained 
+from ttimbers.
 
 MIT License
 
